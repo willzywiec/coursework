@@ -1,0 +1,53 @@
+*********
+* rod ejection
+* ioptre
+1
+*ejectime (s) simulation time (s)
+12.19            13.0
+*nejecrod
+4
+*idre: the ID of the ejected rod (from 1 to ncr as in NEM)
+50 58 184 192
+*id  rflag   laps nitopc  
+ 17   1       12.19   0
+*  id: is the ID of a rodded having the same composition as the ejected rod (if the ejected rod is unrodded) and vice versa 
+*  rfalg: 1 if the ejected rod is rodded 0 if not 
+*  nitopc:  length unit option in insertion tables 
+*           0 = cm/s
+*           1 = inches/s
+*           2 =veeders/s
+*  laps : duration of the ejection  
+* 
+*retop,rebott 425.76 
+365.71 0.0
+* posre: initial control rod tip positions
+0.0
+* axial mesh (extracted from card 24 nem input file)
+21.42
+14.066 
+14.066 
+14.066 
+14.066 
+14.066 
+14.066 
+14.066 
+14.066 
+14.066 
+14.066 
+14.066 
+14.066 
+14.066 
+14.066 
+14.066 
+14.066 
+14.066 
+14.066 
+14.066 
+14.066 
+14.066 
+14.066 
+14.066 
+14.066 
+14.066
+14.066
+21.42
