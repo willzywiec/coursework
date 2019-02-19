@@ -1,5 +1,5 @@
-Coursework
-==========
+# Coursework
+
 **Modeling and Simulation** - Johns Hopkins  
 R scripts
 
