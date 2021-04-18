@@ -1,5 +1,11 @@
 # Coursework
 
+**Data Analysis for Engineers and Scientists** - GWU  
+R scripts
+
+**Discrete Systems Simulation** - GWU
+R scripts
+
 **Modeling and Simulation** - Johns Hopkins  
 R scripts
 
