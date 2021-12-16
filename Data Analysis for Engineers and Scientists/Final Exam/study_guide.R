@@ -362,7 +362,7 @@ fa.parallel(data4s, fa = "pc", n.iter = 100, show.legend = FALSE, main = "Scaled
 
 # Interpretation of Components
 #
-# The eigenvectors form the principal components, and their corresponding eigenvalues
+# The eigenvectors form the principal components and their corresponding eigenvalues
 # are the variances of each principal component. In visual terms, each data point is
 # surrounded by an n-dimensional ellipsoid, where each axis represents a principal
 # component, and variance is expressed in the length of corresponding axes.
