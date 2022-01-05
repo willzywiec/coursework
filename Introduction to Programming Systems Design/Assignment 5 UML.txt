@@ -1,0 +1,22 @@
+Will Zywiec
+7815188984
+
+Assignment 5
+
++MovieMenu : class
+---
++print(String[], int[], int[], string[], string[], string) : void
++printMovie(String[], int[], int[], string[], string[], string) : void
++addMovie(String[], int[], int[], string[], string[]) : void
++removeMovie(String[], int[], int[], string[], string[]) : void
++searchMovie(String[], int[], int[], string[], string[]) : void
++searchStudio(String[], int[], int[], string[], string[]) : void
++searchActor(String[], int[], int[], string[], string[]) : void
+---
++main() : int
+---
++grossIncome[50], year[50] : int
++actor[50], movieTitle[50], stub[50], studio[50] : string
++inputFile, outputFile : string
++fin : ifstream
++x, y : int

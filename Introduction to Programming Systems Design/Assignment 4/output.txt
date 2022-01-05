@@ -1,0 +1,12 @@
+
+Introduction to Computer Programming Fundamentals 
+CSCI 101 
+SAL 101 ---
+Name		Student ID	Average	  Grade
+Adams, John	***-**-3333	87	  B
+Smith, Will	***-**-4444	81.5	  B
+Jordan, Phil	***-**-6666	0	  I
+Johnson, Mary	***-**-8999	89.83	  B
+White, Karl	***-**-8666	81.67	  B
+---
+Class Average: 85

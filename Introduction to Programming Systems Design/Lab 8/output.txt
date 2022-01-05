@@ -1,0 +1,8 @@
+Character                Count
+===================================================
+X                        27        
+Y                        39        
+Z                        47        
+Bad Characters           15        
+---------------------------------------------------
+PROGRAM TERMINATED after reaching the EOF.

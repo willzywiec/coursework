@@ -1,0 +1,13 @@
+Introduction to Computer Programming Fundamentals 
+CSCI 101 
+SAL 101 
+John Adams 
+111223333 87 93 88 77 65 45 89 88
+Will Smith 
+222114444 73 67 70 77 66 99 80 90 
+Phil Jordan 
+777886666  0  0  0  0  0  0  0 0
+Mary Johnson
+999888999 100 90 80 70 90 89 0 90
+Karl White
+999888666 90 80 80 70 80 80 70 90

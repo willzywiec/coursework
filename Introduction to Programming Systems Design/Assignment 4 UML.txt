@@ -1,0 +1,57 @@
+Will Zywiec
+7815188984
+
++Student
+---
+-grades : ArrayList<String>
+-averages : ArrayList<Double>
+---
++getGrades(): ArrayList<String>
++getAverages() : ArrayList<Double>
++setGrades(ArrayList<String>) : void
++setAverages(ArrayList<Double>) : void
++calcAverage() : boolean
++calcGrade() : boolean
++sortByName() : boolean
++sortByAverage() : boolean
++searchStudent() : boolean
++addStudent() : boolean
++removeStudent() : boolean
++editStudent() : boolean
++menu() : boolean
++printStudent(String, String, String, ArrayList<String>, ArrayList<String>, ArrayList<Integer>) : void
++printStudentToFile(String, String, String, ArrayList<String>, ArrayList<String>, ArrayList<Integer>) : void
+
++Course
+---
+-courseName, courseID, location : String
+-firstName, lastname : ArrayList<String>
+-studentID, partialStudentID : ArrayList<Integer>
+-scores : int[][]
+-classAverage : int
+---
++getCourseName() : String
++getCourseID() : String
++getLocation() : String
++getFirstName() : ArrayList<String>
++getLastName() : ArrayList<String>
++getStudentID() : ArrayList<Integer>
++getPartialStudentID() : ArrayList<Integer>
++getScores() : int[][]
++getClassAverage() : int
++setCourseName(String) : void
++setCourseID(String) : void
++setLocation(String) : void
++setFirstName(ArrayList<String>) : void
++setLastName(ArrayList<String>) : void
++setStudentID(ArrayList<Integer>) : void
++setPartialStudentID(ArrayList<Integer>) : void
++setScores(int[][]) : void
++setClassAverage(int) : void
++arrays() : boolean
++calcClassAverage() : boolean
+
++TestClass
+---
++main(String[] args) : static void
+
