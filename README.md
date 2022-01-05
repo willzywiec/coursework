@@ -6,6 +6,9 @@ R scripts
 **Discrete Systems Simulation**, The George Washington University  
 R scripts
 
+**Introduction to Programming Systems Design**, University of Southern California 
+C++ scripts
+
 **Modeling and Simulation**, The Johns Hopkins University  
 R scripts
 
