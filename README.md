@@ -7,7 +7,7 @@ R scripts
 R scripts
 
 **Introduction to Programming Systems Design**, University of Southern California  
-C++ scripts
+C++ and Java scripts
 
 **Modeling and Simulation**, The Johns Hopkins University  
 R scripts
