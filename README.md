@@ -1,22 +1,22 @@
 # Coursework
 
-**Data Analysis for Engineers and Scientists**, The George Washington University  
+**Data Analysis for Engineers and Scientists (EMSE 6765)**, The George Washington University  
 R scripts
 
-**Discrete Systems Simulation**, The George Washington University  
+**Discrete Systems Simulation (EMSE 6760)**, The George Washington University  
 R scripts
 
-**Introduction to Programming Systems Design**, University of Southern California  
+**Foundations of Modeling and Simulation (645.757)**, The Johns Hopkins University  
+R scripts
+
+**Introduction to Programming Systems Design (CSCI 455)**, University of Southern California  
 C++ and Java scripts
 
-**Modeling and Simulation**, The Johns Hopkins University  
-R scripts
-
-**Nuclear Reactor Kinetics and Dynamics**, Pennsylvania State University  
+**Nuclear Reactor Kinetics and Dynamics (NUCE 511)**, Pennsylvania State University  
 COBRA-TF/NEM input files, output files, and graphs
 
-**Radiation Transport Methods**, Rensselaer Polytechnic Institute  
+**Radiation Transport Methods (MANE 6290)**, Rensselaer Polytechnic Institute  
 MATLAB scripts
 
-**Statistical Methods and Data Analysis**, The Johns Hopkins University  
+**Statistical Methods and Data Analysis (625.603)**, The Johns Hopkins University  
 R scripts
