@@ -6,11 +6,11 @@ R scripts
 **Discrete Systems Simulation (EMSE 6760)**, The George Washington University  
 R scripts
 
-**Introduction to Programming Systems Design (CSCI 455)**, University of Southern California  
-C++ and Java scripts
-
 **Foundations of Modeling and Simulation (645.757)**, The Johns Hopkins University  
 R scripts
+
+**Introduction to Programming Systems Design (CSCI 455)**, University of Southern California  
+C++ and Java scripts
 
 **Nuclear Reactor Kinetics and Dynamics (NUCE 511)**, Pennsylvania State University  
 COBRA-TF/NEM input files, output files, and graphs
