@@ -1,5 +1,7 @@
 # Coursework
 
+I took enough graduate courses to complete 120% of a second master's degree in applied physics or somesuch. Here's a sampling of the ones that required me to write code.
+  
 **Data Analysis for Engineers and Scientists (EMSE 6765)**, The George Washington University  
 R scripts
 
